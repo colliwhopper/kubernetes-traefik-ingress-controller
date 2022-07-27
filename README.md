@@ -13,4 +13,3 @@ Below uses longhorn as the storage provider and host path.
 kubectl apply -f traefik-pv.yaml  
 kubectl apply -f traefik-pvc.yaml  
 
-c
